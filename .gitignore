@@ -4,3 +4,7 @@
 node_modules/
 # shell
 install.sh
+# github pages
+CNAME
+# _book
+_book/
