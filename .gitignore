@@ -2,9 +2,10 @@
 *.json
 # depend
 node_modules/
+_book/
 # shell
 *.sh
 # github pages
 CNAME
-# _book
-_book/
+# !docs
+!docs/
