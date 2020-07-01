@@ -38,7 +38,7 @@
   "pluginsConfig": {
     "insert-logo": {
       "url": "//cdn.jsdelivr.net/gh/geepair/PicGo/img/2020/07/01/20200701110219.png",
-      "style": "background: none; max-height: 30px; min-height: 30px"
+      "style": "background: none; max-height: 50px; min-height: 50px"
     },
     "code": {
       "copyButtons": false
@@ -75,11 +75,6 @@
       "copyright": "Copyright &copy ijava.icu 2020",
       "modify_label": "updated: ",
       "modify_format": "YYYY-MM-DD HH:mm:ss"
-    },
-    "page-treeview": {
-      "copyright": "Copyright &#169; aleen42",
-      "minHeaderCount": "2",
-      "minHeaderDeep": "2"
     },
     "hide-element": {
       "elements": [".gitbook-link"]
