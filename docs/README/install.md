@@ -1,12 +1,14 @@
 # 安装
 
-## [NPM & YARN](#npm&Yarm)
+<!--toc-->
+
+### NPM&YARN
 
 ```shell
 npm install animate.css --save
 ```
 
-## [CDN](#cdn)
+### CDN
 
 ```html
 <head>
@@ -14,8 +16,14 @@ npm install animate.css --save
 </head>
 ```
 
+<!--endtoc-->
+
 # 使用
 
-## [使用@keyframes](#use-keyframes)
+<!--toc-->
 
-## [CSS自定义属性](#css-define-attr)
+## 使用@keyframes
+
+## CSS自定义属性
+
+<!--endtoc-->
