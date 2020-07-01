@@ -17,3 +17,17 @@ span.attention {
   vertical-align: super;
   color: red
 }
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #FFFFFF;
+  border: 1px solid #AAAAAA;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #AAAAAA;
+  width: 8px;
+}
