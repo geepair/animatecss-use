@@ -1,0 +1,6 @@
+# json
+*.json
+# depend
+node_modules/
+# shell
+install.sh
