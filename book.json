@@ -1,0 +1,88 @@
+{
+  "title": "Animate.css使用介绍",
+  "author": "geepair",
+  "description": "记录Animate.css的一些demo",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "HOME": "https://ijava.icu"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+  },
+  "plugins": [
+    "-search",
+    "-sharing",
+    "-lunr",
+    "back-to-top-button",
+    "expandable-chapters-small",
+    "insert-logo",
+    "code",
+    "copy-code-button",
+    "todo",
+    "search-pro",
+    "github",
+    "splitter",
+    "sharing-plus",
+    "tbfed-pagefooter",
+    "page-treeview",
+    "flexible-alerts",
+    "pageview-count",
+    "hide-element"
+  ],
+  "pluginsConfig": {
+    "insert-logo": {
+      "url": "gitbook/images/logo.png",
+      "style": "background: none; max-height: 30px; min-height: 30px"
+    },
+    "code": {
+      "copyButtons": false
+    },
+    "github": {
+      "url": "https://github.com/geepair"
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": true,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": true,
+      "linkedin": true,
+      "messenger": false,
+      "pocket": false,
+      "qq": false,
+      "qzone": true,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "douban", "facebook", "google", "hatenaBookmark",
+        "instapaper", "linkedin", "twitter", "weibo",
+        "messenger", "qq", "qzone", "viber", "vk", "weibo",
+        "pocket", "stumbleupon", "whatsapp"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy ijava.icu 2020",
+      "modify_label": "updated: ",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "page-treeview": {
+      "copyright": "Copyright &#169; aleen42",
+      "minHeaderCount": "2",
+      "minHeaderDeep": "2"
+    },
+    "hide-element": {
+      "elements": [".gitbook-link"]
+    }
+  }
+}
