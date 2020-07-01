@@ -1,12 +1,14 @@
 # json
-*.json
+package-lock.json
+book.json
 # depend
 node_modules/
 _book/
 # shell
-*.sh
-# github pages
+install.sh
+publish.sh
+# pages
 CNAME
 !/docs/CNAME
 # !docs
-!/docs/
+!docs/
