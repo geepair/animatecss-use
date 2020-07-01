@@ -11,8 +11,8 @@ install.sh
 publish.sh
 
 # pages
-CNAME
-!/docs/CNAME
+#CNAME
+#!/docs/CNAME
 
 # !docs
 !/docs/
