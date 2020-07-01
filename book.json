@@ -37,7 +37,7 @@
   ],
   "pluginsConfig": {
     "insert-logo": {
-      "url": "gitbook/images/logo.png",
+      "url": "//cdn.jsdelivr.net/gh/geepair/PicGo/img/2020/07/01/20200701110219.png",
       "style": "background: none; max-height: 30px; min-height: 30px"
     },
     "code": {
