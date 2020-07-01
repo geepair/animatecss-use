@@ -12,7 +12,7 @@ publish.sh
 
 # pages
 #CNAME
-#!/docs/CNAME
+!/docs/CNAME
 
 # !docs
 !/docs/
