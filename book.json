@@ -30,10 +30,10 @@
     "splitter",
     "sharing-plus",
     "tbfed-pagefooter",
-    "page-toc-button",
     "flexible-alerts",
     "pageview-count",
-    "hide-element"
+    "hide-element",
+    "simple-page-toc"
   ],
   "pluginsConfig": {
     "insert-logo": {
@@ -84,9 +84,9 @@
     "hide-element": {
       "elements": [".gitbook-link"]
     },
-    "page-toc-button": {
-      "maxTocDepth": 2,
-      "minTocSize": 1
+    "simple-page-toc": {
+      "maxDepth": 3,
+      "skipFirstH1": true
     }
   }
 }
