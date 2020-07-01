@@ -1,4 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
+* [起步](README.md)
+  * [安装](README/install.md)
 

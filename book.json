@@ -30,7 +30,7 @@
     "splitter",
     "sharing-plus",
     "tbfed-pagefooter",
-    "page-treeview",
+    "page-toc-button",
     "flexible-alerts",
     "pageview-count",
     "hide-element"
@@ -83,6 +83,10 @@
     },
     "hide-element": {
       "elements": [".gitbook-link"]
+    },
+    "page-toc-button": {
+      "maxTocDepth": 2,
+      "minTocSize": 1
     }
   }
 }
