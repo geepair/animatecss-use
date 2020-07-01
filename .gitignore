@@ -7,5 +7,6 @@ _book/
 *.sh
 # github pages
 CNAME
+!/docs/CNAME
 # !docs
-!docs/
+!/docs/
