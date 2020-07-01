@@ -23,7 +23,7 @@
 
 
 
-# [介绍](#)
+# 介绍
 
 <p class="animated infinite bounce delay-2s">Animate.css</p>
 
@@ -35,5 +35,5 @@
 
 - [x] Version @3.5.2
 	
-- [x] JsDliver
+- [x] JsDliver CDN
 

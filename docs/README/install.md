@@ -14,8 +14,8 @@ npm install animate.css --save
 </head>
 ```
 
-# [使用](#use)
+# 使用
 
-## [使用@keyframes](use-keyframes)
+## [使用@keyframes](#use-keyframes)
 
 ## [CSS自定义属性](#css-define-attr)

@@ -1,3 +1,5 @@
+
+
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=MuseoModerno:light,bold"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
 
 <style>
@@ -15,3 +17,8 @@
 
 <p class="animated infinite bounce">Animate.css</p>
 
+> [!TIP|style:flat|label:Code]
+>
+> ```html
+> <p class="animated infinite bounce">Animate.css</p>
+> ```
