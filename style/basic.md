@@ -1,6 +1,6 @@
-# 基本样式
+<!-- toc -->
 
-## 
+# 基本样式
 
 ### [bounce 弹跳](#bounce)
 
@@ -131,4 +131,6 @@
 > ```html
 > <p class="animated infinite heartBeat">heartBeat</p>
 > ```
+
+<!-- endtoc -->
 
