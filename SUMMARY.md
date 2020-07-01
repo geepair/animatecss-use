@@ -8,16 +8,12 @@
   
   * [flash 闪](basic/flash.md)
   
-  * [bounce 弹跳](basic/bounce.md)
-  
-  * [flash 闪](basic/flash.md)
-  
   * [pulse 脉冲](basic/pulse.md)
   
   * [rubberBand 橡皮筋](basic/rubberband.md)
-
+  
   * [shakeX 摇动X方向](basic/shakex.md)
-
+  
   * [shakeY 摇动Y方向](basic/shakey.md)
 
   * [headShake 头部摇动](basic/headshake.md)

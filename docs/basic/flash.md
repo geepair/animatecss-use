@@ -11,7 +11,7 @@
     }
 </style>
 
-# flash
+# flash 闪
 
 <p class="animated infinite flash">Animate.css</p>
 

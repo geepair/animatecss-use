@@ -13,7 +13,7 @@
     }
 </style>
 
-# 弹跳
+# bounce 弹跳
 
 <p class="animated infinite bounce">Animate.css</p>
 
