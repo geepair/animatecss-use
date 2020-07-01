@@ -3,7 +3,7 @@
 # depend
 node_modules/
 # shell
-install.sh
+*.sh
 # github pages
 CNAME
 # _book
