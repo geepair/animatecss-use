@@ -1,6 +1,6 @@
 # 安装
 
-<!--toc-->
+<!-- toc -->
 
 ### NPM&YARN
 
@@ -16,14 +16,14 @@ npm install animate.css --save
 </head>
 ```
 
-<!--endtoc-->
+<!-- endtoc -->
 
 # 使用
 
-<!--toc-->
+<!-- toc -->
 
 ## 使用@keyframes
 
 ## CSS自定义属性
 
-<!--endtoc-->
+<!-- endtoc -->
