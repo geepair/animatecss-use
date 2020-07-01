@@ -25,3 +25,13 @@
   * [jello 果冻](style/basic.md/#jello)
 
   * [heartBeat 心跳](style/basic.md/#heartbeat)
+
+* [回入](style/backin.md)
+
+  * [backInDown 下](style/backin.md#backindown)
+
+  * [backInLeft 左](style/backin.md#backinleft)
+
+  * [backInRight 右](style/backin.md#backinright)
+  
+  * [backInUp 上](style/backin.md#backinup)
