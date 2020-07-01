@@ -23,11 +23,11 @@ span.attention {
 }
 
 ::-webkit-scrollbar-track {
+  width: 10px;
   background-color: #FFFFFF;
   border: 1px solid #AAAAAA;
   border-radius: 5px;
 }
-
 ::-webkit-scrollbar-thumb {
   background-color: #AAAAAA;
   width: 8px;

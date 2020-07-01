@@ -2,7 +2,7 @@
 
 # 基本样式
 
-### [bounce 弹跳](#bounce)
+### bounce
 
 <p class="animated infinite bounce">bounce</p>
 
@@ -12,7 +12,7 @@
 > <p class="animated infinite bounce">bounce</p>
 > ```
 
-### [flash 闪](#flash)
+### flash
 
 <p class="animated infinite flash">flash</p>
 
@@ -22,7 +22,7 @@
 > <p class="animated infinite flash">flash</p>
 > ```
 
-### [pulse 脉冲](#pulse)
+### pulse
 
 <p class="animated infinite pulse">pulse</p>
 
@@ -32,7 +32,7 @@
 > <p class="animated infinite pulse">pulse</p>
 > ```
 
-### [rubberBand 橡皮筋](#rubberBand)
+### rubberBand
 
 <p class="animated infinite rubberBand">rubberBand</p>
 
@@ -42,7 +42,7 @@
 > <p class="animated infinite rubberBand">rubberBand</p>
 > ```
 
-### [shakeX 摇动X方向](#shakeX)
+### shakeX
 
 <p class="animated infinite shakeX">shakeX</p>
 
@@ -57,7 +57,7 @@
   >
   > `v3.5.2没有内置此效果`
 
-### [shakeY 摇动Y方向](#shakeY)
+### shakeY
 
 <p class="animated infinite shakeY">shakeY</p>
 
@@ -72,7 +72,7 @@
   >
   > `v3.5.2没有内置此效果`
 
-### [headShake 头部摇动](#headShake)
+### headShake
 
 <p class="animated infinite headShake">headShake</p>
 
@@ -82,7 +82,7 @@
 > <p class="animated infinite headShake">headShake</p>
 > ```
 
-### [swing 摇摆](#swing)
+### swing
 
 <p class="animated infinite swing">swing</p>
 
@@ -92,7 +92,7 @@
 > <p class="animated infinite swing">swing</p>
 > ```
 
-### [tada 震动](#tada)
+### tada
 
 <p class="animated infinite tada">tada</p>
 
@@ -102,7 +102,7 @@
 > <p class="animated infinite tada">tada</p>
 > ```
 
-### [wobble 摇晃](#wobble)
+### wobble
 
 <p class="animated infinite wobble">wobble</p>
 
@@ -112,7 +112,7 @@
 > <p class="animated infinite wobble">wobble</p>
 > ```
 
-### [jello 果冻](#jello)
+### jello
 
 <p class="animated infinite jello">jello</p>
 
@@ -122,7 +122,7 @@
 > <p class="animated infinite jello">jello</p>
 > ```
 
-### [heartBeat 心跳](#heartBeat)
+### heartBeat
 
 <p class="animated infinite heartBeat">heartBeat</p>
 

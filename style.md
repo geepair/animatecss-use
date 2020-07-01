@@ -2,26 +2,26 @@
 
 * [基础样式](style/basic.md)
 
-  * [bounce](style/basic.md/#bounce)
+  * [bounce 弹跳](style/basic.md/#bounce)
   
-  * [flash](style/basic.md/#flash)
+  * [flash 闪](style/basic.md/#flash)
   
-  * [pulse](style/basic.md/#pulse)
+  * [pulse 脉冲](style/basic.md/#pulse)
   
-  * [rubberBand](style/basic.md/#rubberBand)
+  * [rubberBand 橡皮筋](style/basic.md/#rubberband)
   
-  * [shakeX](style/basic.md/#shakeX)
+  * [shakeX 摇动X方向](style/basic.md/#shakex)
   
-  * [shakeY](style/basic.md/#shakeY)
+  * [shakeY 摇动Y方向](style/basic.md/#shakey)
 
-  * [headShake](style/basic.md/#headShake)
+  * [headShake 头部摇动](style/basic.md/#headshake)
 
-  * [swing](style/basic.md/#swing)
+  * [swing 摇摆](style/basic.md/#swing)
 
-  * [tada](style/basic.md/#tada)
+  * [tada 震动](style/basic.md/#tada)
 
-  * [wobble](style/basic.md/#wobble)
+  * [wobble 摇晃](style/basic.md/#wobble)
 
-  * [jello](style/basic.md/#jello)
+  * [jello 果冻](style/basic.md/#jello)
 
-  * [heartBeat](style/basic.md/#heartBeat)
+  * [heartBeat 心跳](style/basic.md/#heartbeat)
