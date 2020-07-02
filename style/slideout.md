@@ -12,7 +12,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> ~~<span class="tip">Old</span>（不适用）~~
+> <span class="tip">Old</span>
 >
 > ```html
 > <p class="animated infinite slideOutDown">slideOutDown</p>
@@ -30,7 +30,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> ~~<span class="tip">Old</span>（不适用）~~
+> <span class="tip">Old</span>
 >
 > ```html
 > <p class="animated infinite slideOutLeft">slideOutLeft</p>
@@ -48,7 +48,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> ~~<span class="tip">Old</span>（不适用）~~
+> <span class="tip">Old</span>
 >
 > ```html
 > <p class="animated infinite slideOutRight">slideOutRight</p>
@@ -66,7 +66,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> ~~<span class="tip">Old</span>（不适用）~~
+> <span class="tip">Old</span>
 >
 > ```html
 > <p class="animated infinite slideOutUp">slideOutUp</p>
