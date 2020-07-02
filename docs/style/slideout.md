@@ -2,10 +2,6 @@
 
 <!-- toc -->
 
-> [!NOTE|label:注意]
->
-> `V3.x`版本全部不适用
-
 ### slideOutDown
 
 <p class="animated infinite slideOutDown">slideOutDown</p>
