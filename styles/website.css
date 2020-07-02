@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=MuseoModerno:light,bold);
+/* @import url(https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.compat.css); */
 @import url(https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css);
 
 .animated {
@@ -10,12 +11,19 @@
   font-weight: 400
 }
 
-span.attention {
+.attention {
   background-color: yellow;
   padding: 2px 4px;
-  text-decoration: uppercase;
   vertical-align: super;
-  color: red
+  color: red;
+  border-radius: 4px
+}
+
+.tip {
+  font-family: MuseoModerno, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: .85em;
+  color: green;
 }
 
 ::-webkit-scrollbar {

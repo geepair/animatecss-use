@@ -8,7 +8,12 @@
 >
 > 新版本: v4.0.0 <span class="attention">new</span>
 
-- [x] Version @3.5.2
+- [x] 当前demo版本：
+
+- <span class="tip">Old</span>[@4.1.0 animate.compat.css](https://cdn.jsdelivr.net/npm/animate.css@4.1.0/animate.compat.css)
+- <span class="tip">New</span>[@3.5.2 animate.min.css](https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css)
 	
-- [x] JsDliver CDN
+- [x] 使用CDN引用：
+
+- [JsDliver CDN](https://www.jsdelivr.com/)
 

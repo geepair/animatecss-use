@@ -6,6 +6,10 @@
 npm install animate.css --save
 ```
 
+```shell
+yarn add animate.css
+```
+
 ### CDN
 
 ```html
@@ -16,6 +20,40 @@ npm install animate.css --save
 
 # 使用
 
-## 使用@keyframes
+### Using @keyframes
 
-## CSS自定义属性
+### CSS Custom Properties
+
+### 实用程序类
+
+#### 延迟加载动画
+
+- delay-2s
+
+- delay-3s
+
+- delay-4s
+
+- delay-5s
+
+#### 动画速度
+
+- slow
+
+- slower
+
+- fast
+
+- faster
+
+#### 重复
+
+- repeat-1
+
+- repeat-2
+
+- repeat-3
+
+### 从`V3.x`或者以下版本迁移
+
+`animate.min.css` -> `animate.compat.css`
