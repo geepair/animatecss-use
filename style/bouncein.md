@@ -2,17 +2,13 @@
 
 <!-- toc -->
 
-> [!NOTE|label:注意]
->
-> `V3.x`版本全部不适用
-
 ### bounceIn
 
 <p class="animated infinite bounceIn">bounceIn</p>
 
 > [!TIP|style:flat|label:Code]
 >
-> ~~<span class="tip">Old</span>（不适用）~~
+> <span class="tip">Old</span>
 >
 > ```html
 > <p class="animated infinite bounceIn">bounceIn</p>
@@ -30,7 +26,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> ~~<span class="tip">Old</span>（不适用）~~
+> <span class="tip">Old</span>
 >
 > ```html
 > <p class="animated infinite bounceInDown">bounceInDown</p>
@@ -48,7 +44,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> ~~<span class="tip">Old</span>（不适用）~~
+> <span class="tip">Old</span>
 >
 > ```html
 > <p class="animated infinite bounceInLeft">bounceInLeft</p>
@@ -66,7 +62,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> ~~<span class="tip">Old</span>（不适用）~~
+> <span class="tip">Old</span>
 >
 > ```html
 > <p class="animated infinite bounceInRight">bounceInRight</p>
@@ -84,7 +80,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> ~~<span class="tip">Old</span>（不适用）~~
+> <span class="tip">Old</span>
 >
 > ```html
 > <p class="animated infinite bounceInUp">bounceInUp</p>

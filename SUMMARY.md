@@ -16,3 +16,7 @@
 
   * [弹出](style/bounceout.md)
 
+  * [淡入](style/fadein.md)
+
+  * [淡出](style/fadeout.md)
+
