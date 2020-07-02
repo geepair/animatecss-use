@@ -20,16 +20,19 @@ span.attention {
 
 ::-webkit-scrollbar {
   width: 10px;
+  height: 10px;
 }
 
 ::-webkit-scrollbar-track {
   width: 10px;
-  background-color: #FFFFFF;
+  height: 10px;
   border: 1px solid #AAAAAA;
   border-radius: 5px;
 }
+
 ::-webkit-scrollbar-thumb {
   background-color: #AAAAAA;
   width: 8px;
+  height: 8px;
   border-radius: 4px;
 }
