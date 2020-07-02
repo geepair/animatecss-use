@@ -45,3 +45,27 @@
   * [backOutRight 右](style/backout.md#backoutright)
   
   * [backOutUp 上](style/backout.md#backoutup)
+
+* [弹入](style/bouncein.md)
+
+  * [bounceIn](style/bouncein.md#bouncein)
+
+  * [bounceInDown 下](style/bouncein.md#bounceindown)
+
+  * [bounceInLeft 左](style/bouncein.md#bounceinleft)
+
+  * [bounceInRight 右](style/bouncein.md#bounceinright)
+  
+  * [bounceInUp 上](style/bouncein.md#bounceinup)
+
+* [弹出](style/bounceout.md)
+
+  * [bounceOut](style/bounceout.md#bounceout)
+
+  * [bounceOutDown 下](style/bounceout.md#bounceoutdown)
+
+  * [bounceOutLeft 左](style/bounceout.md#bounceoutleft)
+
+  * [bounceOutRight 右](style/bounceout.md#bounceoutright)
+  
+  * [bounceOutUp 上](style/bounceout.md#bounceoutup)

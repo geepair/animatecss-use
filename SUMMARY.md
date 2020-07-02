@@ -12,4 +12,7 @@
 
   * [回出](style/backout.md)
 
+  * [弹入](style/bouncein.md)
+
+  * [弹出](style/bounceout.md)
 
