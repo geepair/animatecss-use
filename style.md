@@ -208,20 +208,20 @@
 
 * [滑入](style/slidein.md)
 
-  * [slideInDown](style/slidein.md#slideindown)<span class="tip">v4+</span>
+  * [slideInDown](style/slidein.md#slideindown)<span class="tip">v3+</span>
 
-  * [slideInLeft](style/slidein.md#slideinleft)<span class="tip">v4+</span>
+  * [slideInLeft](style/slidein.md#slideinleft)<span class="tip">v3+</span>
 
-  * [slideInRight](style/slidein.md#slideinright)<span class="tip">v4+</span>
+  * [slideInRight](style/slidein.md#slideinright)<span class="tip">v3+</span>
   
-  * [slideInUp](style/slidein.md#slideinup)<span class="tip">v4+</span>
+  * [slideInUp](style/slidein.md#slideinup)<span class="tip">v3+</span>
 
 * [滑出](style/slideout.md)
 
-  * [slideOutDown](style/slideout.md#slideoutdown)<span class="tip">v4+</span>
+  * [slideOutDown](style/slideout.md#slideoutdown)<span class="tip">v3+</span>
 
-  * [slideOutLeft](style/slideout.md#slideoutleft)<span class="tip">v4+</span>
+  * [slideOutLeft](style/slideout.md#slideoutleft)<span class="tip">v3+</span>
 
-  * [slideOutRight](style/slideout.md#slideoutright)<span class="tip">v4+</span>
+  * [slideOutRight](style/slideout.md#slideoutright)<span class="tip">v3+</span>
   
-  * [slideOutUp](style/slideout.md#slideoutup)<span class="tip">v4+</span>
+  * [slideOutUp](style/slideout.md#slideoutup)<span class="tip">v3+</span>
