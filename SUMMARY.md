@@ -20,3 +20,5 @@
 
   * [淡出](style/fadeout.md)
 
+  * [翻转](style/flip.md)
+

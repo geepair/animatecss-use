@@ -72,56 +72,68 @@
 
 * [淡入](style/fadein.md)
 
-  * [fadeIn](style/fadein.md#fadein)
+  * [fadeIn](style/fadein.md#fadein)<span class="tip">v3+</span>
 
-  * [fadeInDown](style/fadein.md#fadeindown)
+  * [fadeInDown](style/fadein.md#fadeindown)<span class="tip">v3+</span>
 
-  * [fadeInDownBig](style/fadein.md#fadeindownbig)
+  * [fadeInDownBig](style/fadein.md#fadeindownbig)<span class="tip">v3+</span>
 
-  * [fadeInLeft](style/fadein.md#fadeinleft)
+  * [fadeInLeft](style/fadein.md#fadeinleft)<span class="tip">v3+</span>
 
-  * [fadeInLeftBig](style/fadein.md#fadeinleftbig)
+  * [fadeInLeftBig](style/fadein.md#fadeinleftbig)<span class="tip">v3+</span>
 
-  * [fadeInRight](style/fadein.md#fadeinright)
+  * [fadeInRight](style/fadein.md#fadeinright)<span class="tip">v3+</span>
 
-  * [fadeInRightBig](style/fadein.md#fadeinrightbig)
+  * [fadeInRightBig](style/fadein.md#fadeinrightbig)<span class="tip">v3+</span>
 
-  * [fadeInUp](style/fadein.md#fadeinup)
+  * [fadeInUp](style/fadein.md#fadeinup)<span class="tip">v3+</span>
 
-  * [fadeInUpBig](style/fadein.md#fadeinupbig)
+  * [fadeInUpBig](style/fadein.md#fadeinupbig)<span class="tip">v3+</span>
 
-  * [fadeInTopLeft](style/fadein.md#fadeintopleft)
+  * [fadeInTopLeft](style/fadein.md#fadeintopleft)<span class="tip">v3+</span>
 
-  * [fadeInTopRight](style/fadein.md#fadeintopright)
+  * [fadeInTopRight](style/fadein.md#fadeintopright)<span class="tip">v3+</span>
 
-  * [fadeInBottomLeft](style/fadein.md#fadeinbottomleft)
+  * [fadeInBottomLeft](style/fadein.md#fadeinbottomleft)<span class="tip">v3+</span>
 
-  * [fadeInBottomRight](style/fadein.md#fadeinbottomright)
+  * [fadeInBottomRight](style/fadein.md#fadeinbottomright)<span class="tip">v3+</span>
 
-* [淡出](style/fadeout.md)
+* [淡出](style/fadeout.md)<span class="tip">v3+</span>
 
-  * [fadeOut](style/fadeout.md#fadeout)
+  * [fadeOut](style/fadeout.md#fadeout)<span class="tip">v3+</span>
 
-  * [fadeOutDown](style/fadeout.md#fadeoutdown)
+  * [fadeOutDown](style/fadeout.md#fadeoutdown)<span class="tip">v3+</span>
 
-  * [fadeOutDownBig](style/fadeout.md#fadeoutdownbig)
+  * [fadeOutDownBig](style/fadeout.md#fadeoutdownbig)<span class="tip">v3+</span>
 
-  * [fadeOutLeft](style/fadeout.md#fadeoutleft)
+  * [fadeOutLeft](style/fadeout.md#fadeoutleft)<span class="tip">v3+</span>
 
-  * [fadeOutLeftBig](style/fadeout.md#fadeoutleftbig)
+  * [fadeOutLeftBig](style/fadeout.md#fadeoutleftbig)<span class="tip">v3+</span>
 
-  * [fadeOutRight](style/fadeout.md#fadeoutright)
+  * [fadeOutRight](style/fadeout.md#fadeoutright)<span class="tip">v3+</span>
 
-  * [fadeOutRightBig](style/fadeout.md#fadeoutrightbig)
+  * [fadeOutRightBig](style/fadeout.md#fadeoutrightbig)<span class="tip">v3+</span>
 
-  * [fadeOutUp](style/fadeout.md#fadeoutup)
+  * [fadeOutUp](style/fadeout.md#fadeoutup)<span class="tip">v3+</span>
 
-  * [fadeOutUpBig](style/fadeout.md#fadeoutupbig)
+  * [fadeOutUpBig](style/fadeout.md#fadeoutupbig)<span class="tip">v3+</span>
 
-  * [fadeOutTopLeft](style/fadeout.md#fadeouttopleft)
+  * [fadeOutTopLeft](style/fadeout.md#fadeouttopleft)<span class="tip">v3+</span>
 
-  * [fadeOutTopRight](style/fadeout.md#fadeouttopright)
+  * [fadeOutTopRight](style/fadeout.md#fadeouttopright)<span class="tip">v3+</span>
 
-  * [fadeOutBottomLeft](style/fadeout.md#fadeoutbottomleft)
+  * [fadeOutBottomLeft](style/fadeout.md#fadeoutbottomleft)<span class="tip">v3+</span>
   
-  * [fadeOutBottomRight](style/fadeout.md#fadeoutbottomright)
+  * [fadeOutBottomRight](style/fadeout.md#fadeoutbottomright)<span class="tip">v3+</span>
+
+* [翻转](style/flip.md)
+
+  * [flip](style/flip.md#flip)
+
+  * [flipInX](style/filp.md#flipinx)
+
+  * [flipInY](style/flip.md#flipiny)
+
+  * [flipOutX](style/flip.md#flipoutx)
+
+  * [flipOutY](style/flip.md#flipouty)
