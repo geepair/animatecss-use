@@ -128,22 +128,56 @@
 
 * [翻转](style/flip.md)
 
-  * [flip](style/flip.md#flip)
+  * [flip](style/flip.md#flip)<span class="tip">v3+</span>
 
-  * [flipInX](style/filp.md#flipinx)
+  * [flipInX](style/filp.md#flipinx)<span class="tip">v3+</span>
 
-  * [flipInY](style/flip.md#flipiny)
+  * [flipInY](style/flip.md#flipiny)<span class="tip">v3+</span>
 
-  * [flipOutX](style/flip.md#flipoutx)
+  * [flipOutX](style/flip.md#flipoutx)<span class="tip">v3+</span>
 
-  * [flipOutY](style/flip.md#flipouty)
+  * [flipOutY](style/flip.md#flipouty)<span class="tip">v3+</span>
 
 * [光速](style/lightspeed.md)
 
-  * [lightSpeedInRight](style/lightspeed.md#lightspeedinright)
+  * [lightSpeedInRight](style/lightspeed.md#lightspeedinright)<span class="tip">v4+</span>
 
-  * [lightSpeedInLeft](style/lightspeed.md#lightspeedinleft)
+  * [lightSpeedInLeft](style/lightspeed.md#lightspeedinleft)<span class="tip">v4+</span>
 
-  * [lightSpeedOutRight](style/lightspeed.md#lightspeedoutright)
+  * [lightSpeedOutRight](style/lightspeed.md#lightspeedoutright)<span class="tip">v4+</span>
 
-  * [lightSpeedOutLeft](style/lightspeed.md#lightspeedoutleft)
+  * [lightSpeedOutLeft](style/lightspeed.md#lightspeedoutleft)<span class="tip">v4+</span>
+
+* [旋入](style/rotatein.md)
+
+  * [rotateIn](style/rotatein.md#rotatein)<span class="tip">v3+</span>
+
+  * [rotateInDownLeft](style/rotatein.md#rotateindownleft)<span class="tip">v3+</span>
+
+  * [rotateInDownRight](style/rotatein.md#rotateindownright)<span class="tip">v3+</span>
+
+  * [rotateInUpLeft](style/rotatein.md#rotateinupleft)<span class="tip">v3+</span>
+
+  * [rotateInUpRight](style/rotatein.md#rotateinupright)<span class="tip">v3+</span>
+
+* [旋出](style/rotateout.md)
+
+  * [rotateOut](style/rotateout.md#rotateout)<span class="tip">v3+</span>
+
+  * [rotateOutDownLeft](style/rotateout.md#rotateoutdownleft)<span class="tip">v3+</span>
+
+  * [rotateOutDownRight](style/rotateout.md#rotateoutdownright)<span class="tip">v3+</span>
+
+  * [rotateOutUpLeft](style/rotateout.md#rotateoutupleft)<span class="tip">v3+</span>
+
+  * [rotateOutUpRight](style/rotateout.md#rotateoutupright)<span class="tip">v3+</span>
+
+* [特殊](style/special.md)
+
+  * [hinge](style/special.md#hinge)
+  
+  * [jackInTheBox](style/special.md#jackinthebox)
+  
+  * [rollIn](style/special.md#rollin)
+  
+  * [rollOut](style/special.md#rollout)

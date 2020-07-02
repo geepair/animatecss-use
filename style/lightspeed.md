@@ -2,13 +2,17 @@
 
 <!-- toc -->
 
+> [!NOTE|label:注意]
+>
+> `V3.x`版本全部不适用
+
 ### lightSpeedInRight
 
 <p class="animated infinite lightSpeedInRight">lightSpeedInRight</p>
 
 > [!TIP|style:flat|label:Code]
 >
-> <span class="tip">Old</span>
+> ~~<span class="tip">Old</span>（不适用）~~
 >
 > ```html
 > <p class="animated infinite lightSpeedInRight">lightSpeedInRight</p>
@@ -26,7 +30,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> <span class="tip">Old</span>
+> ~~<span class="tip">Old</span>（不适用）~~
 >
 > ```html
 > <p class="animated infinite lightSpeedInLeft">lightSpeedInLeft</p>
@@ -44,7 +48,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> <span class="tip">Old</span>
+> ~~<span class="tip">Old</span>（不适用）~~
 >
 > ```html
 > <p class="animated infinite lightSpeedOutRight">lightSpeedOutRight</p>
@@ -62,7 +66,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> <span class="tip">Old</span>
+> ~~<span class="tip">Old</span>（不适用）~~
 >
 > ```html
 > <p class="animated infinite lightSpeedOutLeft">lightSpeedOutLeft</p>
