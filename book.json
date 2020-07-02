@@ -3,11 +3,7 @@
   "author": "geepair",
   "description": "记录Animate.css的一些样式简单使用预览",
   "language": "zh-hans",
-  "links": {
-    "sidebar": {
-      "Home": "https://ijava.icu"
-    }
-  },
+  "links": {},
   "styles": {
     "website": "styles/website.css",
     "ebook": "styles/ebook.css",
