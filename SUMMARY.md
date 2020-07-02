@@ -22,3 +22,5 @@
 
   * [翻转](style/flip.md)
 
+  * [光速](style/lightspeed.md)
+

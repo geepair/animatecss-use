@@ -137,3 +137,13 @@
   * [flipOutX](style/flip.md#flipoutx)
 
   * [flipOutY](style/flip.md#flipouty)
+
+* [光速](style/lightspeed.md)
+
+  * [lightSpeedInRight](style/lightspeed.md#lightspeedinright)
+
+  * [lightSpeedInLeft](style/lightspeed.md#lightspeedinleft)
+
+  * [lightSpeedOutRight](style/lightspeed.md#lightspeedoutright)
+
+  * [lightSpeedOutLeft](style/lightspeed.md#lightspeedoutleft)
