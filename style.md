@@ -95,7 +95,33 @@
   * [fadeInTopRight](style/fadein.md#fadeintopright)
 
   * [fadeInBottomLeft](style/fadein.md#fadeinbottomleft)
-  
+
   * [fadeInBottomRight](style/fadein.md#fadeinbottomright)
 
 * [淡出](style/fadeout.md)
+
+  * [fadeOut](style/fadeout.md#fadeout)
+
+  * [fadeOutDown](style/fadeout.md#fadeoutdown)
+
+  * [fadeOutDownBig](style/fadeout.md#fadeoutdownbig)
+
+  * [fadeOutLeft](style/fadeout.md#fadeoutleft)
+
+  * [fadeOutLeftBig](style/fadeout.md#fadeoutleftbig)
+
+  * [fadeOutRight](style/fadeout.md#fadeoutright)
+
+  * [fadeOutRightBig](style/fadeout.md#fadeoutrightbig)
+
+  * [fadeOutUp](style/fadeout.md#fadeoutup)
+
+  * [fadeOutUpBig](style/fadeout.md#fadeoutupbig)
+
+  * [fadeOutTopLeft](style/fadeout.md#fadeouttopleft)
+
+  * [fadeOutTopRight](style/fadeout.md#fadeouttopright)
+
+  * [fadeOutBottomLeft](style/fadeout.md#fadeoutbottomleft)
+  
+  * [fadeOutBottomRight](style/fadeout.md#fadeoutbottomright)
