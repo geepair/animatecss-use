@@ -2,6 +2,10 @@
 
 <!-- toc -->
 
+> [!NOTE|label:注意]
+>
+> `V3.x`版本部分不适用
+
 ### hinge
 
 <p class="animated infinite hinge">hinge</p>
@@ -26,7 +30,7 @@
 
 > [!TIP|style:flat|label:Code]
 >
-> <span class="tip">Old</span>
+> ~~<span class="tip">Old</span>（不适用）~~
 >
 > ```html
 > <p class="animated infinite jackInTheBox">jackInTheBox</p>

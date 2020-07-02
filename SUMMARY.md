@@ -28,5 +28,4 @@
 
   * [旋出](style/rotateout.md)
 
-  * [特殊](style/specail.md)
-
+  * [特殊](style/special.md)
