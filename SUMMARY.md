@@ -29,3 +29,7 @@
   * [旋出](style/rotateout.md)
 
   * [特殊](style/special.md)
+
+  * [缩入](style/zoomin.md)
+
+  * [缩出](style/zoomout.md)

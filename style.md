@@ -28,47 +28,47 @@
 
 * [回入](style/backin.md)
 
-  * [backInDown 下](style/backin.md#backindown)<span class="tip">v4+</span>
+  * [backInDown](style/backin.md#backindown)<span class="tip">v4+</span>
 
-  * [backInLeft 左](style/backin.md#backinleft)<span class="tip">v4+</span>
+  * [backInLeft](style/backin.md#backinleft)<span class="tip">v4+</span>
 
-  * [backInRight 右](style/backin.md#backinright)<span class="tip">v4+</span>
+  * [backInRight](style/backin.md#backinright)<span class="tip">v4+</span>
   
-  * [backInUp 上](style/backin.md#backinup)<span class="tip">v4+</span>
+  * [backInUp](style/backin.md#backinup)<span class="tip">v4+</span>
 
 * [回出](style/backout.md)
 
-  * [backOutDown 下](style/backout.md#backoutdown)<span class="tip">v4+</span>
+  * [backOutDown](style/backout.md#backoutdown)<span class="tip">v4+</span>
 
-  * [backOutLeft 左](style/backout.md#backoutleft)<span class="tip">v4+</span>
+  * [backOutLeft](style/backout.md#backoutleft)<span class="tip">v4+</span>
 
-  * [backOutRight 右](style/backout.md#backoutright)<span class="tip">v4+</span>
+  * [backOutRight](style/backout.md#backoutright)<span class="tip">v4+</span>
   
-  * [backOutUp 上](style/backout.md#backoutup)<span class="tip">v4+</span>
+  * [backOutUp](style/backout.md#backoutup)<span class="tip">v4+</span>
 
 * [弹入](style/bouncein.md)
 
   * [bounceIn](style/bouncein.md#bouncein)<span class="tip">v3+</span>
 
-  * [bounceInDown 下](style/bouncein.md#bounceindown)<span class="tip">v3+</span>
+  * [bounceInDown](style/bouncein.md#bounceindown)<span class="tip">v3+</span>
 
-  * [bounceInLeft 左](style/bouncein.md#bounceinleft)<span class="tip">v3+</span>
+  * [bounceInLeft](style/bouncein.md#bounceinleft)<span class="tip">v3+</span>
 
-  * [bounceInRight 右](style/bouncein.md#bounceinright)<span class="tip">v3+</span>
+  * [bounceInRight](style/bouncein.md#bounceinright)<span class="tip">v3+</span>
   
-  * [bounceInUp 上](style/bouncein.md#bounceinup)<span class="tip">v3+</span>
+  * [bounceInUp](style/bouncein.md#bounceinup)<span class="tip">v3+</span>
 
 * [弹出](style/bounceout.md)
 
   * [bounceOut](style/bounceout.md#bounceout)<span class="tip">v3+</span>
 
-  * [bounceOutDown 下](style/bounceout.md#bounceoutdown)<span class="tip">v3+</span>
+  * [bounceOutDown](style/bounceout.md#bounceoutdown)<span class="tip">v3+</span>
 
-  * [bounceOutLeft 左](style/bounceout.md#bounceoutleft)<span class="tip">v3+</span>
+  * [bounceOutLeft](style/bounceout.md#bounceoutleft)<span class="tip">v3+</span>
 
-  * [bounceOutRight 右](style/bounceout.md#bounceoutright)<span class="tip">v3+</span>
+  * [bounceOutRight](style/bounceout.md#bounceoutright)<span class="tip">v3+</span>
   
-  * [bounceOutUp 上](style/bounceout.md#bounceoutup)<span class="tip">v3+</span>
+  * [bounceOutUp](style/bounceout.md#bounceoutup)<span class="tip">v3+</span>
 
 * [淡入](style/fadein.md)
 
@@ -174,10 +174,34 @@
 
 * [特殊](style/special.md)
 
-  * [hinge](style/special.md#hinge)
+  * [hinge](style/special.md#hinge)<span class="tip">v3+</span>
   
-  * [jackInTheBox](style/special.md#jackinthebox)
+  * [jackInTheBox](style/special.md#jackinthebox)<span class="tip">v4+</span>
   
-  * [rollIn](style/special.md#rollin)
+  * [rollIn](style/special.md#rollin)<span class="tip">v3+</span>
   
-  * [rollOut](style/special.md#rollout)
+  * [rollOut](style/special.md#rollout)<span class="tip">v3+</span>
+
+* [缩入](style/zoomin.md)
+
+  * [zoomIn](style/zoomin.md#zoomin)<span class="tip">v3+</span>
+
+  * [zoomInDown](style/zoomin.md#zoomindown)<span class="tip">v3+</span>
+
+  * [zoomInLeft](style/zoomin.md#zoominleft)<span class="tip">v3+</span>
+
+  * [zoomInRight](style/zoomin.md#zoominright)<span class="tip">v3+</span>
+  
+  * [zoomInUp](style/zoomin.md#zoominup)<span class="tip">v3+</span>
+
+* [缩出](style/zoomout.md)
+
+  * [zoomOut](style/zoomout.md#zoomout)<span class="tip">v3+</span>
+
+  * [zoomOutDown](style/zoomout.md#zoomoutdown)<span class="tip">v3+</span>
+
+  * [zoomOutLeft](style/zoomout.md#zoomoutleft)<span class="tip">v3+</span>
+
+  * [zoomOutRight](style/zoomout.md#zoomoutright)<span class="tip">v3+</span>
+  
+  * [zoomOutUp](style/zoomout.md#zoomoutup)<span class="tip">v3+</span>
