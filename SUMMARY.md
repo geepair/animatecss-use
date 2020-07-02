@@ -33,3 +33,7 @@
   * [缩入](style/zoomin.md)
 
   * [缩出](style/zoomout.md)
+
+  * [滑入](style/slidein.md)
+
+  * [滑出](style/slideout.md)
