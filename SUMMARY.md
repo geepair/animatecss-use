@@ -37,3 +37,9 @@
   * [滑入](style/slidein.md)
 
   * [滑出](style/slideout.md)
+
+* [工具类](utility.md)
+
+  * [延迟动画](utility/delay.md)
+
+  * [动画速度](utility/speed.md)

@@ -28,20 +28,34 @@
 }
 
 ::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
+  width: 8px;
+  height: 8px;
 }
 
 ::-webkit-scrollbar-track {
-  width: 10px;
-  height: 10px;
-  border: 1px solid #AAAAAA;
-  border-radius: 5px;
+  width: 8px;
+  height: 8px;
+  border: 1px solid #dfa4c4;
+  border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #AAAAAA;
-  width: 8px;
-  height: 8px;
-  border-radius: 4px;
+  background-color: #aaaaaa;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+}
+
+button {
+  border: 1px solid #dfa4c4;
+  border-radius: 5px;
+  font-size: .85em;
+  color: #dfa4c4;
+  padding: 5px;
+  outline: none;
+}
+
+button:hover {
+  background-color: #dfa4c4;
+  color: #ffffff;
 }
