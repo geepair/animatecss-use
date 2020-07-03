@@ -43,3 +43,5 @@
   * [延迟动画](utility/delay.md)
 
   * [动画速度](utility/speed.md)
+
+  * [重复动画](utility/repeat.md)
