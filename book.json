@@ -37,9 +37,9 @@
       "url": "https://github.com/geepair"
     },
     "sharing": {
-      "douban": true,
+      "douban": false,
       "google": true,
-      "linkedin": true,
+      "linkedin": false,
       "twitter": false,
       "weibo": false,
       "all": [
